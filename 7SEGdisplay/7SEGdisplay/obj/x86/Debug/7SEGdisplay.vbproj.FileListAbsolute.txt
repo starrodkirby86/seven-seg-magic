@@ -1,0 +1,9 @@
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\bin\Debug\7SEGdisplay.exe
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\bin\Debug\7SEGdisplay.pdb
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\bin\Debug\7SEGdisplay.xml
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\_7SEGdisplay.segmentMachine.resources
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\_7SEGdisplay.Resources.resources
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\7SEGdisplay.vbproj.GenerateResource.Cache
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\7SEGdisplay.exe
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\7SEGdisplay.xml
+C:\Users\Starrodkirby86\Documents\GitHub\seven-seg-magic\seven-seg-magic\7SEGdisplay\7SEGdisplay\obj\x86\Debug\7SEGdisplay.pdb
